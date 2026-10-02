@@ -7,7 +7,7 @@ Estou aprendendo a criar startups na prática: conversando com usuários, testan
 ## Projetos em destaque
 
 - **[Alugho](https://github.com/Udavisouzaa/Alugho)** — MVP pessoal de gestão de aluguéis com painel para proprietários e portal do inquilino. Começou como RentPay; os dois nomes representam fases do mesmo projeto.
-- **[Malotex](https://github.com/Udavisouzaa/flydrop)** — protótipo de marketplace que explora a conexão entre viajantes e pessoas que precisam enviar itens. O repositório conserva o nome técnico flydrop, enquanto Malotex é o nome do produto.
+- **[Malotex](https://github.com/Udavisouzaa/flydrop)** — protótipo de marketplace que explora a conexão entre viajantes e pessoas que precisam enviar itens. A [MALAH](https://github.com/Udavisouzaa/MALAH) foi uma etapa inicial da mesma ideia; o repositório atual conserva o nome técnico flydrop.
 
 Os repositórios documentam experimentos em diferentes problemas. Eles mostram meu processo de construção e aprendizado, sem representar empresas lançadas ou resultados comerciais comprovados.
 
@@ -19,4 +19,4 @@ Gosto de trocar ideias sobre produtividade, software, IA e criação de produtos
 
 ---
 
-**In English:** I explore productivity problems and build AI-assisted prototypes. My background in sales and communication helps me understand people and turn ideas into product experiments. [Alugho](https://github.com/Udavisouzaa/Alugho) and [Malotex](https://github.com/Udavisouzaa/flydrop) are projects in progress, not claims of launched companies. I enjoy meeting builders from around the world.
+**In English:** I explore productivity problems and build AI-assisted prototypes. My background in sales and communication helps me understand people and turn ideas into product experiments. [Alugho](https://github.com/Udavisouzaa/Alugho) and [Malotex](https://github.com/Udavisouzaa/flydrop) are projects in progress, not claims of launched companies. [MALAH](https://github.com/Udavisouzaa/MALAH) was an early stage of Malotex. I enjoy meeting builders from around the world.
