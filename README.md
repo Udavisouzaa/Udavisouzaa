@@ -4,9 +4,12 @@ Exploro problemas de produtividade e transformo ideias em protótipos com a ajud
 
 Estou aprendendo a criar startups na prática: conversando com usuários, testando hipóteses e construindo projetos com foco em problemas reais.
 
-## Projeto em destaque
+## Projetos em destaque
 
-**[Alugho](https://github.com/Udavisouzaa/Alugho)** — MVP pessoal de gestão de aluguéis com painel para proprietários e portal do inquilino. O repositório mostra o código, as tecnologias e o estado atual do projeto.
+- **[Alugho](https://github.com/Udavisouzaa/Alugho)** — MVP pessoal de gestão de aluguéis com painel para proprietários e portal do inquilino. Começou como RentPay; os dois nomes representam fases do mesmo projeto.
+- **[Malotex](https://github.com/Udavisouzaa/flydrop)** — protótipo de marketplace que explora a conexão entre viajantes e pessoas que precisam enviar itens. O repositório conserva o nome técnico flydrop, enquanto Malotex é o nome do produto.
+
+Os repositórios documentam experimentos em diferentes problemas. Eles mostram meu processo de construção e aprendizado, sem representar empresas lançadas ou resultados comerciais comprovados.
 
 ## Vamos conversar
 
@@ -16,4 +19,4 @@ Gosto de trocar ideias sobre produtividade, software, IA e criação de produtos
 
 ---
 
-**In English:** I explore productivity problems and build AI-assisted prototypes. My background in sales and communication helps me talk to people, understand their needs, and turn ideas into product experiments. I am working toward founding a startup and enjoy meeting builders from around the world.
+**In English:** I explore productivity problems and build AI-assisted prototypes. My background in sales and communication helps me understand people and turn ideas into product experiments. [Alugho](https://github.com/Udavisouzaa/Alugho) and [Malotex](https://github.com/Udavisouzaa/flydrop) are projects in progress, not claims of launched companies. I enjoy meeting builders from around the world.
